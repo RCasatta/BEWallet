@@ -43,3 +43,4 @@ export ELEMENTSD_EXEC=$PWD/server/elements-0.18.1.8/bin/elementsd
 
 cargo test
 ```
+Test
